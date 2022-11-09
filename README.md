@@ -29,10 +29,9 @@ with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
 </div>
 
 ###
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nilyss&show_icons=true&locale=en" alt="nilyss" /></p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilyss&" alt="nilyss" /></p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilyss&show_icons=true&locale=en&layout=compact" alt="nilyss" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilyss&show_icons=true&locale=en&layout=compact" alt="nilyss" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nilyss&show_icons=true&locale=en" alt="nilyss" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilyss&" alt="nilyss" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nilyss" alt="nilyss" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
