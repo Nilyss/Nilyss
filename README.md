@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Nicolas DECRESSAC</h1>
 <h3 align="center">A JavaScript fullstack developer from France</h3>
 
-👀 I'm actually working on a fullStack WebApp in Angular [nailissa.fr](https://nailissa.fr/)
+👀 I'm actually working on a fullStack WebApp in Angular 2+ and node.js [nailissa.fr](https://nailissa.fr/)
 
-👨🏻‍💻 My tech stack is **React.js, Angular CLI, React.native Node.js**
+👨🏻‍💻 My tech stack is **React.js, Angular CLI, React.native, Node.js**
 
 with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
 
