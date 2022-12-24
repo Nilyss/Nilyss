@@ -9,6 +9,8 @@ with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
 
 🖥️ My portfolio is here [https://ndecressac.fr](https://ndecressac.fr)
 
+🎬 I've record some project if u want to see "demo", here [YouTube Playslist](https://www.youtube.com/watch?v=8-V0F_e2wq4&list=PL7KDMAZgzvA7HA6dHn7iyVbOHW7JG6Gkz)
+
 
 📫 How to reach me **decressac.nicolas@gmail.com**
 
