@@ -3,7 +3,7 @@
 
 👀 I am currently working to improve my skills in Angular 2+ with NgRx state management.
 
-👨🏻‍💻 My tech stack is **React.js, Angular CLI, React.native, Node.js**
+👨🏻‍💻 My tech stack is **Angular 2+, React.js, React-native, Node.js**
 
 with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
 
