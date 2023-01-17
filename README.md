@@ -1,13 +1,14 @@
 <h1 align="center">Hi, I'm Nicolas DECRESSAC</h1>
 <h3 align="center">A JavaScript fullstack developer from France</h3>
 
-👀 I am currently working to improve my skills in Angular 2+ with NgRx state management.
+👀 I am currently working on the website of a French YouTuber in Angular 2+ with NgRx store management 
 
 👨🏻‍💻 My tech stack is **Angular 2+, React.js, React-native, Node.js**
 
 with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
 
-🖥️ My portfolio is here [https://ndecressac.fr](https://ndecressac.fr)
+🖥️ My portfolio is here [ndecressac.fr](https://ndecressac.fr), 
+and you can take a look at the code [here](https://github.com/Nilyss/ndecressac.fr).
 
 🎬 I've record some project if u want to see "demo", here [YouTube Playslist](https://www.youtube.com/watch?v=8-V0F_e2wq4&list=PL7KDMAZgzvA7HA6dHn7iyVbOHW7JG6Gkz)
 
