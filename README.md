@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicolas DECRESSAC</h1>
 <h3 align="center">A JavaScript fullstack developer from France</h3>
 
-👀 I am currently working on the website of a French YouTuber in Angular 2+ with NgRx store management 
+👀 I am currently working at Ivoo (Rochefort, 17300 - France), as a SaaS web developper
 
 👨🏻‍💻 My tech stack is **Angular 2+, React.js, React-native, Node.js**
 
