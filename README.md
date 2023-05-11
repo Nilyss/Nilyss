@@ -3,17 +3,17 @@
 
 👀 I'm currently working at Ivoo in Rochefort, 17300, France, as a SaaS web developer
 
-👨🏻‍💻 My tech stack is **Angular 2+, React.js, React-native, Node.js**
+👨🏻‍💻 My tech stack includes **Angular 2+, React.js, React-native, Node.js**
 
-with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
+along with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
 
-🖥️ My portfolio is here [ndecressac.fr](https://ndecressac.fr), 
-and you can take a look at the code [here](https://github.com/Nilyss/ndecressac.fr).
+🖥️ You can view my portfolio here [ndecressac.fr](https://ndecressac.fr), 
+and access the code [here](https://github.com/Nilyss/ndecressac.fr).
 
-🎬 I've record some project if u want to see "demo", here [YouTube Playslist](https://www.youtube.com/watch?v=8-V0F_e2wq4&list=PL7KDMAZgzvA7HA6dHn7iyVbOHW7JG6Gkz)
+🎬 I've recorded some project demos, which you can view on this [YouTube Playslist](https://www.youtube.com/watch?v=8-V0F_e2wq4&list=PL7KDMAZgzvA7HA6dHn7iyVbOHW7JG6Gkz)
 
 
-📫 How to reach me **decressac.nicolas@gmail.com**
+📫 You can reach me at **decressac.nicolas@icloud.com**
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
