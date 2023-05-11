@@ -2,6 +2,7 @@
 <h3 align="center">A JavaScript fullstack developer from France</h3>
 
 👀 I'm currently working at Ivoo in Rochefort, 17300, France, as a SaaS web developer
+
 👨🏻‍💻 My tech stack is **Angular 2+, React.js, React-native, Node.js**
 
 with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
