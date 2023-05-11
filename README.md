@@ -7,7 +7,7 @@
 
 along with **ECMAScript 6, TypeScript, Sass, express, mongoose, sequelize**
 
-🖥️ You can view my portfolio here [ndecressac.fr](https://ndecressac.fr), 
+🖥️ You can view my portfolio [here](https://ndecressac.fr), 
 and access the code [here](https://github.com/Nilyss/ndecressac.fr).
 
 🎬 I've recorded some project demos, which you can view on this [YouTube Playslist](https://www.youtube.com/watch?v=8-V0F_e2wq4&list=PL7KDMAZgzvA7HA6dHn7iyVbOHW7JG6Gkz)
